@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:142B3B,100:287F8C&height=190&section=header&text=Valeria%20Rond%C3%B3n&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Engineering%20Student%20%40%20SDU&descSize=20&descAlignY=68" width="100%" alt="Valeria Rondón | Software Engineering student at SDU" />
+  <img src="https://raw.githubusercontent.com/Vvderondont/Vvderondont/main/assets/profile-banner.jpeg" width="100%" alt="Blue abstract technology network banner" />
 </p>
+
+<h1 align="center">Valeria Rondón</h1>
+<p align="center"><strong>Software Engineering Student at SDU</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/valeria-rondon-sdu/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
