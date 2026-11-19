@@ -35,7 +35,7 @@ A third-semester team project exploring a web application for motorised workstat
 
 ### Hardware project
 
-An ongoing hardware-focused project completed in a pair as part of my coursework.
+An in-progress hardware-focused coursework project that I am developing with a teammate.
 
 [View the project on GitLab](https://gitlab.sdu.dk/varon25/my-phce-2026)
 
