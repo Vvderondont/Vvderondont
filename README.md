@@ -31,11 +31,14 @@ Hi, I'm Valeria, a third-semester Software Engineering student at the University
 
 </details>
 
-## 💼 Experience
+<details>
+<summary><b>Other work experience</b></summary>
 
 | Role | Experience |
 |---|---|
 | **Room Attendant / Cleaning Assistant**<br><sub>Det Gamle Rådhus ApS · Jun 2026–Present</sub> | Maintain hotel rooms and shared areas to hygiene and presentation standards. Follow workplace procedures, work independently, and adapt to changing priorities. |
+
+</details>
 
 ## 🧰 Technical skills
 
