@@ -102,5 +102,5 @@ C, C++, Python, PHP, Laravel, SQL/MySQL, Docker and Docker Compose.
   <a href="https://www.linkedin.com/in/valeria-rondon-sdu/"><img src="https://img.shields.io/badge/Connect-LinkedIn-287F8C?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:C9A7D8,100:287F8C&amp;height=90&amp;section=footer&amp;text=Keep%20building%20%26%20learning&amp;fontSize=25&amp;fontColor=FFFFFF&amp;fontAlignY=55" width="100%" alt="Keep building and learning" />
+  <sub>🌷 Keep building and learning · one project at a time 🩵</sub>
 </p>
