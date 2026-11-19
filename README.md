@@ -25,6 +25,20 @@ A completed second-semester university team project exploring electric heating p
 
 [View the source code on GitHub](https://github.com/SDU-SE-2026-Group-09/2nd_Semester_Project_Group-09)
 
+## In-progress projects
+
+### Deskinator9000
+
+A third-semester team project exploring a web application for motorised workstation preferences. My work has included Node.js/Express server configuration and debugging, REST API tasks, and an About Us page with HTML/CSS and navigation.
+
+[View the project on GitLab](https://gitlab.sdu.dk/group-9/deskinator9000)
+
+### Hardware project
+
+An ongoing hardware-focused project completed in a pair as part of my coursework.
+
+[View the project on GitLab](https://gitlab.sdu.dk/varon25/my-phce-2026)
+
 ## Languages
 
 - Spanish — Native
