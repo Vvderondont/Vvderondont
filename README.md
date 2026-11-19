@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:142B3B,100:287F8C&height=190&section=header&text=Valeria%20Rond%C3%B3n&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Engineering%20Student%20%40%20SDU&descSize=20&descAlignY=68" width="100%" alt="Valeria Rondón | Software Engineering student at SDU" />
+</p>
 
-<!--
-**Vvderondont/Vvderondont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/valeria-rondon-sdu/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+</p>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Valeria, a third-semester Software Engineering student at the University of Southern Denmark (SDU). Through university team projects, I'm building practical experience in backend and web development, application development, and software testing. I'm interested in solving problems collaboratively and creating reliable software.
+
+## Technical skills
+
+- **Project experience:** C#, .NET 10, JavaScript, Node.js, Express.js, REST APIs, HTML, CSS, JSON, Avalonia UI, MVVM, LiveCharts, LINQ, xUnit, Git, GitHub and GitLab.
+- **Coursework and current learning:** C, C++, Python, PHP, Laravel, SQL/MySQL, Docker and Docker Compose.
+
+## Featured project
+
+### Electric Heating Optimisation
+
+A completed second-semester university team project exploring electric heating production in relation to energy output, costs and CO₂ emissions. My contributions focused on loading and processing seasonal JSON data, data visualisation with Avalonia UI and MVVM, and automated tests with xUnit.
+
+**Technologies:** C#, .NET 10, JSON, Avalonia UI, MVVM, LiveCharts, LINQ, xUnit
+
+[View the source code on GitHub](https://github.com/SDU-SE-2026-Group-09/2nd_Semester_Project_Group-09)
+
+## Languages
+
+- Spanish — Native
+- English — B2 (CEFR)
+
+---
+
+I'm looking for Student Worker or internship opportunities in software engineering.  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/valeria-rondon-sdu/) · [Explore my repositories](https://github.com/Vvderondont?tab=repositories)
