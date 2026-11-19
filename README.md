@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/3rd-Semester-C9A7D8?style=for-the-badge&amp;labelColor=142B3B" alt="Third semester" />
   <img src="https://img.shields.io/badge/English-B2%20CEFR-E7AFC3?style=for-the-badge&amp;labelColor=142B3B" alt="English B2 CEFR" />
   <img src="https://img.shields.io/badge/1-Completed%20team%20project-5F9EAA?style=for-the-badge&amp;labelColor=142B3B" alt="One completed team project" />
-  <img src="https://img.shields.io/badge/2-Projects%20in%20progress-C9A7D8?style=for-the-badge&amp;labelColor=142B3B" alt="Two projects in progress" />
+  <img src="https://img.shields.io/badge/3-Projects%20in%20progress-C9A7D8?style=for-the-badge&amp;labelColor=142B3B" alt="Three projects in progress" />
 </p>
 
 ## 🩵 About me
@@ -27,7 +27,7 @@ Hi, I'm Valeria, a third-semester Software Engineering student at the University
 |---|---|
 | 2025 | Started a BSc in Software Engineering at the University of Southern Denmark (SDU). |
 | 2026 | Completed the second-semester team project Electric Heating Optimisation. |
-| 2026 | Began third-semester work on Deskinator9000 and embedded C++ coursework with Raspberry Pi Pico. |
+| 2026 | Began third-semester work on Deskinator9000, a Laravel Bookshelf learning project, and embedded C++ coursework with Raspberry Pi Pico. |
 
 </details>
 
@@ -86,9 +86,11 @@ C, C++, Python, PHP, Laravel, SQL/MySQL, Docker and Docker Compose.
       <p><a href="https://gitlab.sdu.dk/varon25/my-phce-2026">View working repository on GitLab</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>More projects</h3>
-      <p>Browse my other coursework and repositories. I will add the Bookshelf project here when its repository is ready.</p>
-      <p><a href="https://github.com/Vvderondont?tab=repositories">Explore all GitHub repositories</a></p>
+      <h3>Bookshelf — Laravel Web App</h3>
+      <p><img src="https://img.shields.io/badge/Status-In%20progress-E7AFC3?style=flat-square" alt="In progress" /> <img src="https://img.shields.io/badge/Type-Third--semester%20coursework-C9A7D8?style=flat-square" alt="Third-semester coursework" /></p>
+      <p>An early-stage book-catalogue web app developed through web-development coursework. Current work includes Blade views, book listing and form pages, web routes, an Eloquent model, and server-side title validation. Database-backed storage and full CRUD are still in progress.</p>
+      <p><code>PHP</code> <code>Laravel</code> <code>Blade</code> <code>Eloquent</code> <code>JavaScript</code> <code>CSS</code></p>
+      <p><a href="https://github.com/Vvderondont/Bookshelf">View project on GitHub</a></p>
     </td>
   </tr>
 </table>
