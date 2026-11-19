@@ -33,11 +33,11 @@ A third-semester team project exploring a web application for motorised workstat
 
 [View the project on GitLab](https://gitlab.sdu.dk/group-9/deskinator9000)
 
-### Hardware project
+### PHCE — Embedded C++ on Raspberry Pi Pico
 
-An in-progress hardware-focused coursework project that I am developing with a teammate.
+In-progress coursework for Programming for Hardware Constrained Environments, working with a partner on embedded C++ exercises for the Raspberry Pi Pico. Our work is kept on a personal branch based on the course repository.
 
-[View the project on GitLab](https://gitlab.sdu.dk/varon25/my-phce-2026)
+[View my working repository on GitLab](https://gitlab.sdu.dk/varon25/my-phce-2026)
 
 ## Languages
 
